@@ -9,8 +9,7 @@ Focus on key metrics: accuracy, precision, recall, and F1-score.
 Dataset pre-processing and feature engineering steps.
 Code implementation for model training and evaluation.
 Visualization of results for insights into model performance.
-Dataset
-Source: [Mention the dataset source, e.g., UCI Heart Disease Dataset or other datasets].
+
 Description: Provide details about the dataset, such as the number of records, features, and target variable.
 Models Implemented
 Logistic Regression
@@ -30,7 +29,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/HeartDiseasePrediction.git
+git clone https://github.com/Lianasalim/HeartDiseasePrediction.git
 Navigate to the project directory:
 bash
 Copy code
